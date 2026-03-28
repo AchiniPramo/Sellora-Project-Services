@@ -10,7 +10,7 @@ jobs:
       INSTANCE_GROUP: mig-services
       INSTANCE_TEMPLATE: tmp-vm-services-seed-v1
       REGION: asia-southeast1
-      ZONE: asia-southeast1-b
+      ZONE: asia-southeast1-c
       USER_NAME: achinipramodhya4
       IMAGE_NAME: vm-services-seed-boot-image
 
