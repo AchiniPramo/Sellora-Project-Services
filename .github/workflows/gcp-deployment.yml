@@ -60,7 +60,6 @@ jobs:
         run: |
           gcloud compute instance-groups managed rolling-action start-update ${{ env.INSTANCE_GROUP }} \
               --region=${{ env.REGION }} \
-              --type=proactive \
               --max-unavailable=0 \
               --minimal-action=replace \
               --replacement-method=substitute \
