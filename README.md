@@ -2,6 +2,8 @@
 
 A modern microservices-based e-commerce platform built with Spring Boot and Spring Cloud, designed for scalability and high availability. **Sellora** provides comprehensive services for managing users, inventory items, and orders in a distributed system architecture.
 
+## Student Information
+
 | Field          | Value |
 |----------------|---|
 | Student Name   | Achini Pramodhya |
