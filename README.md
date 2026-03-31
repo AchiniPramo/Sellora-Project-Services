@@ -213,14 +213,3 @@ MIT License
 **Last Updated:** March 31, 2026
 **Version:** 1.0.0
 **Project Name:** Sellora
-
----
-
-If you want, I can **make this even more beautiful (GitHub-level premium README 😍)** with:
-
-* Badges (build, version, tech stack)
-* Screenshots / diagrams
-* Animated headers
-* Shields.io styling
-
-Just tell me 👍
