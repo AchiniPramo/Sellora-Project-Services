@@ -2,6 +2,17 @@
 
 A modern microservices-based e-commerce platform built with Spring Boot and Spring Cloud, designed for scalability and high availability. **Sellora** provides comprehensive services for managing users, inventory items, and orders in a distributed system architecture.
 
+| Field          | Value |
+|----------------|---|
+| Student Name   | Achini Pramodhya |
+| Student Number | 2301692020 |
+| Slack Handle   | Achini Pramodhya |
+| Module         | ITS 2130 Enterprise Cloud Application |
+| Program        | GDSE @ IJSE |
+| GCP Project ID | eca-bucket |
+
+---
+
 ## 📋 Table of Contents
 
 * [Project Overview](#-project-overview)
