@@ -4,17 +4,17 @@ A modern microservices-based e-commerce platform built with Spring Boot and Spri
 
 ## 📋 Table of Contents
 
-* [Project Overview](#project-overview)
-* [Architecture](#architecture)
-* [Services](#services)
-* [Technology Stack](#technology-stack)
-* [Prerequisites](#prerequisites)
-* [Installation & Setup](#installation--setup)
-* [Build & Run](#build--run)
-* [Project Structure](#project-structure)
-* [Database Configuration](#database-configuration)
-* [Deployment](#deployment)
-* [License](#license)
+* [Project Overview](#-project-overview)
+* [Architecture](#-architecture)
+* [Services](#-services)
+* [Technology Stack](#-technology-stack)
+* [Prerequisites](#-prerequisites)
+* [Installation & Setup](#-installation--setup)
+* [Build & Run](#-build--run)
+* [Project Structure](#-project-structure)
+* [Database Configuration](#-database-configuration)
+* [Deployment](#-deployment)
+* [License](#-license)
 
 ## 🎯 Project Overview
 
